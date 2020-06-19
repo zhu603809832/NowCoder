@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseLinked.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EntryNodeOfLoop.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteDuplication.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindTarget.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Fibonacci.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="JumpFloor.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Duplicate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Multiply.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="jumpFloorII.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindKthToTail.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Merge.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindFirstCommonNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Clone.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TreeDepth.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HasSubTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MirrorTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MinStack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IsPopOrder.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintFromTopToBottom.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindPath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IsBalancedTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ReConstructBinaryTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindNumsAppearOnce.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GetNumberOfK.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GetLeastNumbers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FindGreatestSumOfSubArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="NumberOf1Between.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PringTreeZhi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IsSymmetricalTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IsVerifySquenceOfBST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Power.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FirstNotRepeatingChar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SumSolution.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MoreThanHalfNum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KthNode.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CutRope.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="notReapting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NowCoder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
